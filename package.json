@@ -1,14 +1,11 @@
 {
   "name": "diem",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "bin": {
-    "diem": "main.js"
+    "diem": "lib/cli.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "lxchurbakov",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.7"
